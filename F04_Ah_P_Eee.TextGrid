@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.7 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "CycleOnset" 
+        xmin = 0 
+        xmax = 11.7 
+        points: size = 16 
+        points [1]:
+            number = 1.1153450232390452 
+            mark = "" 
+        points [2]:
+            number = 1.640126278165204 
+            mark = "" 
+        points [3]:
+            number = 2.1065985047662337 
+            mark = "" 
+        points [4]:
+            number = 2.653245645314316 
+            mark = "" 
+        points [5]:
+            number = 3.2633777979699543 
+            mark = "" 
+        points [6]:
+            number = 3.9448645665198963 
+            mark = "" 
+        points [7]:
+            number = 4.604485449447915 
+            mark = "" 
+        points [8]:
+            number = 5.295328932239373 
+            mark = "" 
+        points [9]:
+            number = 5.925795300191494 
+            mark = "" 
+        points [10]:
+            number = 6.6598341323854875 
+            mark = "" 
+        points [11]:
+            number = 7.352253842853135 
+            mark = "" 
+        points [12]:
+            number = 8.01129375197366 
+            mark = "" 
+        points [13]:
+            number = 8.667270319785116 
+            mark = "" 
+        points [14]:
+            number = 9.33053551612781 
+            mark = "" 
+        points [15]:
+            number = 10.02343058129445 
+            mark = "" 
+        points [16]:
+            number = 10.737716177355813 
+            mark = "" 
