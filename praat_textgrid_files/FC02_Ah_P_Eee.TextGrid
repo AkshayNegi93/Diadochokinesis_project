@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "CycleOnset" 
+        xmin = 0 
+        xmax = 15 
+        points: size = 30 
+        points [1]:
+            number = 1.1557591289409535 
+            mark = "" 
+        points [2]:
+            number = 1.5379392782387349 
+            mark = "" 
+        points [3]:
+            number = 1.969432995187843 
+            mark = "" 
+        points [4]:
+            number = 2.3947625161805353 
+            mark = "" 
+        points [5]:
+            number = 2.7831068614347325 
+            mark = "" 
+        points [6]:
+            number = 3.152958618819682 
+            mark = "" 
+        points [7]:
+            number = 3.565959747899542 
+            mark = "" 
+        points [8]:
+            number = 3.972796681022987 
+            mark = "" 
+        points [9]:
+            number = 4.342648438407937 
+            mark = "" 
+        points [10]:
+            number = 4.823455723008371 
+            mark = "" 
+        points [11]:
+            number = 5.273442027826727 
+            mark = "" 
+        points [12]:
+            number = 5.680278960950171 
+            mark = "" 
+        points [13]:
+            number = 6.1056084819428635 
+            mark = "" 
+        points [14]:
+            number = 6.4631318474149815 
+            mark = "" 
+        points [15]:
+            number = 6.882297172451258 
+            mark = "" 
+        points [16]:
+            number = 7.363104457051692 
+            mark = "" 
+        points [17]:
+            number = 7.790131375231841 
+            mark = "" 
+        points [18]:
+            number = 8.215460896224533 
+            mark = "" 
+        points [19]:
+            number = 8.63462622126081 
+            mark = "" 
+        points [20]:
+            number = 9.029134762471424 
+            mark = "" 
+        points [21]:
+            number = 9.4483000875077 
+            mark = "" 
+        points [22]:
+            number = 9.899206916844562 
+            mark = "" 
+        points [23]:
+            number = 10.307068142172616 
+            mark = "" 
+        points [24]:
+            number = 10.714929367500671 
+            mark = "" 
+        points [25]:
+            number = 11.171089948459679 
+            mark = "" 
+        points [26]:
+            number = 11.616517339278476 
+            mark = "" 
+        points [27]:
+            number = 12.002912184326105 
+            mark = "" 
+        points [28]:
+            number = 12.421506599794371 
+            mark = "" 
+        points [29]:
+            number = 12.840101015262638 
+            mark = "" 
+        points [30]:
+            number = 13.244851193484834 
+            mark = "" 
